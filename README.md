@@ -1,7 +1,7 @@
 # Getting Started
 
 ### Public Link
-[View App Here]([http://localhost:3000](https://book-list-app-ywh5s5qsla-uc.a.run.app/))
+[View App Here](http://localhost:3000](https://book-list-app-ywh5s5qsla-uc.a.run.app/)
 
 ### Run Locally `npm run start`
 - Runs the app in the development mode.\
