@@ -1,7 +1,6 @@
 # Getting Started
 
 ### Public Link
-[https://book-list-app-ywh5s5qsla-uc.a.run.app](View App Here)
 [View App Here](https://book-list-app-ywh5s5qsla-uc.a.run.app)
 
 ### Run Locally `npm run start`
